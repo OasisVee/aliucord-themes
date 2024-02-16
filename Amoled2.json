@@ -1,0 +1,21 @@
+{
+    "manifest": {
+        "author": "._.serinova._.",
+        "name": "Amoled2",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {
+        "*": "https:\/\/github.com\/OasisVee\/fonts-to-use\/raw\/main\/Courgette-Regular.ttf"
+    },
+    "simple_colors": {
+        "background": -16777216,
+        "background_secondary": -16777216,
+        "statusbar": -16777216
+    },
+    "colors": {
+        "primary_dark_630": -16777216
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
