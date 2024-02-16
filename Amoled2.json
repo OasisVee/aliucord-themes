@@ -2,7 +2,7 @@
     "manifest": {
         "author": "._.serinova._.",
         "name": "Amoled2",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "updater": "https:\/\/raw.githubusercontent.com\/OasisVee\/aliucord-themes\/main\/Amoled2.json"
     },
     "background": {},
